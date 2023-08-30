@@ -5,7 +5,6 @@
 - 🌈 Details will publish soon.
 - 👩‍💻 Repos and docs are on the way.
 - 🍿 Only 2 teammate currently.
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Get in touch💬
 Email：root@but.io
